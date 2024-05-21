@@ -30,7 +30,7 @@ The CSE dataset includes various components and challenging cases that can occur
 ### 3. Static/dynamic sequences
 Each environment is organized into static and dynamic versions. The dynamic version is the sequences acquired in an environment where only dynamic objects like humans are added to the static environment. Additionally, each robot is driven with nearly identical trajectories in static and dynamic environments. We expect these categorizations to provide an opportunity to evaluate the effectiveness of SLAM algorithms handling dynamic objects.
 
-https://github.com/vision3d-lab/CSE_Dataset/assets/51151412/12aebbd5-166a-48d9-9f6a-c4c99c90aea4
+https://github.com/vision3d-lab/CSE_Dataset/blob/main/assets/service_scene.png
 
 <br/><br/>
 
