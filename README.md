@@ -1,7 +1,7 @@
 # CSE-Dataset
 **A Benchmark Dataset for Collaborative SLAM in Service Environments** (On-going)
 
-## 1. Overview (Have to change)
+## 1. Overview 
 <p align="center">
   <a href="https://youtu.be/EKeVWzePS5M">
     <img src="https://img.youtube.com/vi/EKeVWzePS5M/0.jpg" alt="CSE-Dataset" width="600">
@@ -10,7 +10,7 @@
   <span style="font-size:small;">Click the image to view an introduction to the CSE dataset !</span>
 </p>
 
-As service environments have become diverse, they have started to demand complicated tasks that are difficult for a single robot to complete. This change has led to an interest in multiple robots instead of a single robot. C-SLAM, as a fundamental technique for multiple service robots, needs to handle diverse challenges such as homogeneous scenes and dynamic objects to ensure that robots operate smoothly and perform their task safely. However, existing C-SLAM datasets do not include the various indoor service environments with the aforementioned challenges. To close this gap, we introduce a new multi-modal C-SLAM dataset for multiple service robots in various indoor service environments, called C-SLAM dataset in Service Environments (CSE). We use the NVIDIA Isaac Sim to build data in various indoor service environments with the challenges that may occur in real-world service environments. By using simulation, we can provide accurate and precisely time-synchronized sensor data, such as stereo RGB, stereo depth, IMU, and GT poses. We configure three common indoor service environments (Hospital, Office, and Warehouse), each of which includes various dynamic objects that perform motions suitable to each environment. In addition, we navigate the three robots to mimic the actions of real service robots. Through these factors, we build a more realistic C-SLAM dataset for multiple service robots. We demonstrate our dataset by evaluating diverse state-of-the-art single-robot SLAM and multi-robot SLAM methods.
+We introduce a new multi-modal C-SLAM dataset for multiple service robots in various indoor service environments, called C-SLAM dataset in Service Environments (CSE). We use the NVIDIA Isaac Sim to build data in various indoor service environments with the challenges that may occur in real-world service environments. By using simulation, we can provide accurate and precisely time-synchronized sensor data, such as stereo RGB, stereo depth, IMU, and GT poses. We configure three common indoor service environments (Hospital, Office, and Warehouse), each of which includes various dynamic objects that perform motions suitable to each environment. In addition, we navigate the three robots to mimic the actions of real service robots. Through these factors, we build a more realistic C-SLAM dataset for multiple service robots. We demonstrate our dataset by evaluating diverse state-of-the-art single-robot SLAM and multi-robot SLAM methods.
 <br/><br/>
 
 ## 2. Dataset characteristics
