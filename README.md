@@ -1,11 +1,11 @@
 # CSE-Dataset
-**Demonstrating Interactive Collaborative SLAM : A Benchmark Synthetic Dataset for C-SLAM in Service Environments** (On-going)
+**A Benchmark Dataset for Collaborative SLAM in Service Environments** (On-going)
 <h2>
 <a href="https://arxiv.org/abs/2403.05005">Paper (arxiv)</a> |
 <a href="https://vision3d-lab.github.io/ditto">Project Page</a> 
 </h2>
 
-## Overview
+## Overview (Have to convert the video!)
 <p align="center">
   <a href="https://youtu.be/EKeVWzePS5M">
     <img src="https://img.youtube.com/vi/EKeVWzePS5M/0.jpg" alt="CSE-Dataset" width="600" height="auto">
