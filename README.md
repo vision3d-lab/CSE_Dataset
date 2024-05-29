@@ -3,7 +3,7 @@
 
 ## 1. Overview 
 <p align="center">
-  <a href="https://youtu.be/EKeVWzePS5M">
+  <a href="https://youtu.be/Z_YZCeCAz9I">
     <img src="https://img.youtube.com/vi/EKeVWzePS5M/0.jpg" alt="CSE-Dataset" width="600">
   </a>
   <br>
@@ -69,5 +69,5 @@ We provide the sequence as the rosbag files(ROS1), separate for each robot. The 
 
 
 ## 5. Download
-Coming soon.
+Coming soon!
 
