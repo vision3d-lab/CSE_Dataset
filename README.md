@@ -4,7 +4,7 @@
 ## 1. Overview 
 <p align="center">
   <a href="https://youtu.be/Z_YZCeCAz9I">
-    <img src="https://img.youtube.com/vi/EKeVWzePS5M/0.jpg" alt="CSE-Dataset" width="600">
+    <img src="https://img.youtube.com/vi/Z_YZCeCAz9I/0.jpg" alt="CSE-Dataset" width="600">
   </a>
   <br>
   <span style="font-size:small;">Click the image to view an introduction to the CSE dataset !</span>
