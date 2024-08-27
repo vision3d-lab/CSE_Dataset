@@ -1,0 +1,1447 @@
+Spawn original_male_adult_medical_01 24 19.5 0 270
+original_male_adult_medical_01 LookAround 180
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 90
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 14 19.6 0 _
+original_male_adult_medical_01 LookAround 60
+original_male_adult_medical_01 GoTo 24 19.5 0 _
+original_male_adult_medical_01 LookAround 60
+
+
+Spawn M_Medical_01 23 23 0 270
+M_Medical_01 LookAround 180
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 19.5 35 0 90
+M_Medical_01 LookAround 60
+M_Medical_01 GoTo 20 23 0 _ 
+M_Medical_01 GoTo 23 23 0 _
+M_Medical_01 LookAround 60
+
+Spawn original_male_adult_police_04 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 180
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 180
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 120
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 120
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 120
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 120
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 120
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 120
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 9.2 2.7 0 90
+original_male_adult_police_04 LookAround 60
+original_male_adult_police_04 GoTo 5 5.9 0 _
+original_male_adult_police_04 GoTo 2.2 4.2 0 30
+original_male_adult_police_04 LookAround 60
+
+Spawn F_Business_02 -40 6.6 0 0 
+F_Business_02 LookAround 180
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -32.3 3.5 0 270
+F_Business_02 LookAround 30
+F_Business_02 GoTo -31.45 5 0 _
+F_Business_02 GoTo -31 11.7 0 _
+F_Business_02 GoTo -40 12 0 _
+F_Business_02 GoTo -40 6.6 0 0
+F_Business_02 LookAround 30
+
+Spawn male_adult_construction_03 -18.02 11.6 0 270
+male_adult_construction_03 LookAround 270
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+male_adult_construction_03 GoTo -40.3 13.1 0 _ 
+male_adult_construction_03 GoTo -40.2 16.3 0 _ 
+male_adult_construction_03 LookAround 180
+male_adult_construction_03 GoTo -40.3 13.1 0 _
+male_adult_construction_03 GoTo -18.02 11.6 0 _ 
+male_adult_construction_03 LookAround 30 
+
+Spawn original_female_adult_medical_01 12.7 3.3 0 270
+original_female_adult_medical_01 LookAround 180
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo -7.58 13.8 0 _ 
+original_female_adult_medical_01 LookAround 30 
+original_female_adult_medical_01 GoTo -7.8 11.45 0 _
+original_female_adult_medical_01 GoTo 3.7 11.1 0 _
+original_female_adult_medical_01 GoTo 15.25 6.1 0 _
+original_female_adult_medical_01 GoTo 15.7 3.3 0 _ 
+original_female_adult_medical_01 GoTo 12.7 3.3 0 _ 
+original_female_adult_medical_01 LookAround 30 
+
+Spawn F_Medical_01 -12.75 7.55 0 180 
+F_Medical_01 LookAround 180
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -1.33 3.58 0 _ 
+F_Medical_01 LookAround 30 
+F_Medical_01 GoTo -11.44 3.25 0 _ 
+F_Medical_01 GoTo -26.537418365478516 4.275241374969482 0.0 _ 
+F_Medical_01 GoTo -26.522933959960938 10.309886932373047 0.0 _ 
+F_Medical_01 GoTo -23.27 10.6 0 _ 
+F_Medical_01 GoTo -17.35 9.96 0 _ 
+F_Medical_01 GoTo -12.81 9.8 0 _
+F_Medical_01 GoTo -12.75 7.55 0 _ 
+F_Medical_01 LookAround 30 
+
+
+
+
+
+
+
+
+
+
+
+
