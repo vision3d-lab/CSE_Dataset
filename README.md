@@ -69,5 +69,38 @@ We provide the sequence as the rosbag files(ROS1), separate for each robot. The 
 
 
 ## 5. Download
-Coming soon!
+You can download the CSE dataset using this [google drive link](https://drive.google.com/drive/folders/1oJbPXntXiIw9nTeulcOgSL2kN6XmikIf?usp=sharing).
+
+```bash
+.
+├── hospital
+│   ├── dynamic_hospital_robot1.bag
+│   ├── dynamic_hospital_robot2.bag
+│   ├── dynamic_hospital_robot3.bag
+│   ├── static_hospital_robot1.bag
+│   ├── static_hospital_robot2.bag
+│   └── static_hospital_robot3.bag
+├── office
+│   ├── dynamic_office_robot1.bag
+│   ├── dynamic_office_robot2.bag
+│   ├── dynamic_office_robot3.bag
+│   ├── static_office_robot1.bag
+│   ├── static_office_robot2.bag
+│   └── static_office_robot3.bag
+├── warehouse
+│   ├── dynamic_warehouse_robot1.bag
+│   ├── dynamic_warehouse_robot2.bag
+│   ├── dynamic_warehouse_robot3.bag
+│   ├── static_warehouse_robot1.bag
+│   ├── static_warehouse_robot2.bag
+│   └── static_warehouse_robot3.bag
+└── lifelong_sequence
+    ├── lifelong_static_office_origTraj_robot1.bag
+    ├── lifelong_static_office_origTraj_robot2.bag
+    ├── lifelong_static_office_origTraj_robot3.bag
+    ├── lifelong_static_office_reverseTraj_robot1.bag
+    ├── lifelong_static_office_reverseTraj_robot2.bag
+    └── lifelong_static_office_reverseTraj_robot3.bag
+
+```
 
