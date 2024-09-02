@@ -1,6 +1,10 @@
 # CSE-Dataset
 **A Benchmark Dataset for Collaborative SLAM in Service Environments** (On-going)
 
+**[Update - 2024.09.02]** 
+- Tutorial materials (guidance file, source code etc.)
+- Point cloud data for each environment. 
+
 ## 1. Overview 
 <p align="center">
   <a href="https://youtu.be/4kROGCN2pJg">
@@ -80,6 +84,7 @@ You can download the CSE dataset using this [google drive link](https://drive.go
 │   ├── static_hospital_robot1.bag
 │   ├── static_hospital_robot2.bag
 │   └── static_hospital_robot3.bag
+│   └── hospital_pointcloud.ply 
 ├── office
 │   ├── dynamic_office_robot1.bag
 │   ├── dynamic_office_robot2.bag
@@ -87,6 +92,7 @@ You can download the CSE dataset using this [google drive link](https://drive.go
 │   ├── static_office_robot1.bag
 │   ├── static_office_robot2.bag
 │   └── static_office_robot3.bag
+│   └── office_pointcloud.ply
 ├── warehouse
 │   ├── dynamic_warehouse_robot1.bag
 │   ├── dynamic_warehouse_robot2.bag
@@ -94,6 +100,7 @@ You can download the CSE dataset using this [google drive link](https://drive.go
 │   ├── static_warehouse_robot1.bag
 │   ├── static_warehouse_robot2.bag
 │   └── static_warehouse_robot3.bag
+│   └── warehouse_pointcloud.ply 
 └── lifelong_sequence
     ├── lifelong_static_office_origTraj_robot1.bag
     ├── lifelong_static_office_origTraj_robot2.bag
