@@ -47,6 +47,9 @@ Each environment is organized into static and dynamic versions. The dynamic vers
 ### 2.4. Ground truth scene point cloud
 We provide a point cloud for each environment. We use depth images to extract a uniform point cloud, because the environment is not composed of a dense mesh. For generating the point clouds, we re-acquired depth images and poses to capture all intricate details. Based on the acquired depth images, we generated point clouds and aligned them to the world coordinate system using pose data. Finally, we refined the point cloud uniformly using the Farthest Point Sampling method.
 
+<p align="center">
+  <img src="https://github.com/vision3d-lab/CSE_Dataset/blob/main/assets/scene_pointcloud.png" width="80%" height="auto">
+</p>
 
 ## 3. Sequences
 We acquired sequences for a total of 3 indoor service environments (Hospital, Office, Warehouse), divided into Static / Dynamic versions. Details of each sequence can be found in the main paper.
