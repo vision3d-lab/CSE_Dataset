@@ -2,8 +2,8 @@
 **A Benchmark Dataset for Collaborative SLAM in Service Environments** (On-going)
 
 **[Update - 2024.09.02]** 
-- Tutorial materials (guidance file, source code etc.)
-- Point cloud data for each environment. 
+- Release tutorial materials (guidance file, source code etc.)
+- Release point cloud data for each environment. 
 
 ## 1. Overview 
 <p align="center">
