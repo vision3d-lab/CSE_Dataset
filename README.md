@@ -1,7 +1,7 @@
 # CSE-Dataset
 **A Benchmark Dataset for Collaborative SLAM in Service Environments** (On-going)
 
-**[Update - 2024.09.02]** 
+**[Update - 2024.09.09]** 
 - Release tutorial materials (guidance file, source code etc.).
 - Release point cloud data for each environment.
 - Release "dynamic feature removal module" of Swarm-SLAM-D/COVINS-D.
