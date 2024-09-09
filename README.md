@@ -5,7 +5,7 @@
 - Release tutorial materials (guidance file, source code etc.).
 - Release point cloud data for each environment.
 - Release "dynamic feature removal module" of Swarm-SLAM-D/COVINS-D.
-- Release depth image noise modeling code.
+- Release depth image noise modeling code (Ref: [simkinect](https://github.com/ankurhanda/simkinect)).
 
 ## 1. Overview 
 <p align="center">
