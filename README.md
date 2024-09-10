@@ -63,6 +63,10 @@ We provide a total of 6 sequences for C-SLAM divided into static and dynamic for
 |:---:|:---:|:---:|
 | [Hospital](https://youtu.be/rqxZ9Uby1z8) | [Office](https://youtu.be/U79whrA5fwE) | [Warehouse](https://youtu.be/_ViSRllbTAg) |
 
+### Parameters 
+Stereo RGB, stereo depth, and pseudo-LiDAR data are noise-free. However, we also provide a depth noise modeling code that has been modified based on [[simkinect](https://github.com/ankurhanda/simkinect)].
+
+For the IMU sensor, we utilized the noise parameters provided in the dataset [[grade](https://grade.is.tue.mpg.de/)] built based on NVIDIA Isaac Sim we used. The noise parameter values are in the file "imu_noise.yaml".
 <br/>
 
 ## 4. Data format
