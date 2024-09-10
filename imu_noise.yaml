@@ -1,0 +1,5 @@
+imu_noise:
+  gyroscope noise density : 0.03394 # rad/s/sqrt(Hz)
+  gyroscope random walk : 0.0038785 # rad/s^2/sqrt(Hz)
+  accelerometer noise density : 0.4 # m/s^2/sqrt(Hz)
+  accelerometer random walk : 0.6 # m/s^3/sqrt(Hz)
