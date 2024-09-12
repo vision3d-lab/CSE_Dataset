@@ -9,8 +9,8 @@
 
 ## 1. Overview 
 <p align="center">
-  <a href="https://youtu.be/4kROGCN2pJg">
-    <img src="https://img.youtube.com/vi/4kROGCN2pJg/0.jpg" alt="CSE-Dataset" width="600">
+  <a href="https://youtu.be/zGVHL1qYJsU">
+    <img src="https://img.youtube.com/vi/zGVHL1qYJsU/0.jpg" alt="CSE-Dataset" width="600">
   </a>
   <br>
   <span style="font-size:small;">Click the image to view an introduction to the CSE dataset !</span>
