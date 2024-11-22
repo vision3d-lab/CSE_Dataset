@@ -1,5 +1,5 @@
 # CSE-Dataset
-**A Benchmark Dataset for Collaborative SLAM in Service Environments** (On-going)
+**A Benchmark Dataset for Collaborative SLAM in Service Environments** (RA-L)
 
 **[Update - 2024.09.09]** 
 - Release tutorial materials (guidance file, source code etc.).
@@ -124,3 +124,13 @@ You can download the CSE dataset using this [google drive link](https://drive.go
 
 ```
 
+## 6. BibTeX
+```bib
+@article{park2024benchmark,
+  title={A Benchmark Dataset for Collaborative SLAM in Service Environments},
+  author={Park, Harin and Lee, Inha and Kim, Minje and Park, Hyungyu and Joo, Kyungdon},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
+```
