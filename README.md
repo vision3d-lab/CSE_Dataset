@@ -134,3 +134,16 @@ You can download the CSE dataset using this [google drive link](https://drive.go
   publisher={IEEE}
 }
 ```
+## 7. Acknowledge
+```bib
+This dataset was generated using NVIDIA Isaac Sim. The scenes and robot models used are provided by NVIDIA.  
+The dataset only contains derived sensor data (e.g., camera images, lidar, IMU, robot pose) and does not redistribute NVIDIA’s 3D assets.
+
+NVIDIA Omniverse Isaac Sim assets are subject to their own license terms.  
+For access to the scenes themselves, please refer to the official NVIDIA Isaac Sim distribution:  
+https://developer.nvidia.com/isaac-sim
+
+---
+
+All code and sensor data in this repository are distributed under the MIT License.  
+```
